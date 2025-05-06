@@ -1,0 +1,10 @@
+librosa 
+pandas
+numpy
+scikit-learn
+torch
+tensorflow
+xgboost 
+matplotlib
+seaborn
+transformers
