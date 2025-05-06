@@ -89,6 +89,16 @@ pip install librosa pandas numpy scikit-learn torch tensorflow xgboost matplotli
 
 ---
 
+## 🔄 Code Flowcharts
+
+### 📘 grammar-scoring-model-cnn.ipynb
+![CNN Notebook Flowchart](screenshots/notebook1flowchart.png)
+
+### 📗 grammar-scoring-model-for-audios.ipynb
+![Audio Notebook Flowchart](screenshots/notebook2flowchart.png)
+
+---
+
 ## 🔗 Useful Links
 
 - 🏁 [SHL Internship Competition Overview](https://www.kaggle.com/competitions/shl-hiring-assessment/overview)
