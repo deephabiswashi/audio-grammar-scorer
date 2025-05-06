@@ -89,6 +89,13 @@ pip install librosa pandas numpy scikit-learn torch tensorflow xgboost matplotli
 
 ---
 
+## 🔗 Useful Links
+
+- 🏁 [SHL Internship Competition Overview](https://www.kaggle.com/competitions/shl-hiring-assessment/overview)
+- 📊 [Dataset on Kaggle](https://www.kaggle.com/competitions/shl-hiring-assessment/data)
+
+---
+
 ## 🚧 Future Work
 
 * Incorporate Transformer-based ASR embeddings.
