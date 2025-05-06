@@ -1,0 +1,59 @@
+# Python
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Jupyter
+
+.ipynb\_checkpoints
+\*.ipynb
+
+# Environments
+
+.env
+.venv
+env/
+venv/
+
+# Data and outputs
+
+/data/
+outputs/
+submission.csv
+
+# VSCode
+
+.vscode/
+
+# Mac
+
+.DS\_Store
+
+# Logs
+
+\*.log
+
+# Temporary
+
+\*.tmp
+\*.swp
+
+# PyTorch
+
+\*.pt
+\*.pth
+
+# Transformers cache
+
+transformers\_cache/
+
+# TensorBoard
+
+runs/
+
+# Python packaging
+
+dist/
+build/
+\*.egg-info/
